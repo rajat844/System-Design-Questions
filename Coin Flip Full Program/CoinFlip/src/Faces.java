@@ -1,0 +1,4 @@
+enum Faces {
+    heads,
+    tails
+}
